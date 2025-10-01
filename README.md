@@ -1,5 +1,7 @@
 # Impact CLI
 
+I noticed the hint at the bottom of your job description and thought it’d be fun to make this CLI! Excited about the opportunity to build Java tools like this with impact.com. 
+
 A command-line interface application for Impact.com that displays the company logo in ASCII art.
 
 ## Project Structure
